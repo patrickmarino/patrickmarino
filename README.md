@@ -14,6 +14,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 </div>
 
+<div align="center">
+
 ![patrickmarino's Stats](https://github-readme-stats.vercel.app/api?username=patrickmarino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![patrickmarino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickmarino&theme=vue-dark&hide_border=true)
 ![patrickmarino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmarino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
