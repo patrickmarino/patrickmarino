@@ -14,7 +14,7 @@
 - 🚀 Passionate about clean architecture, APIs, and automation
 - 🧪 Testing advocate — I integrate **Codecov** and love writing tests
 - 📈 I like tracking progress using GitHub stats & streaks
-- 📫 How to reach me: [@patrickmarino](https://www.linkedin.com/in/patrick-marino-6a282932) 
+- 📫 How to reach me: [@yourusername]([https://github.com/patrickmarino](https://www.linkedin.com/in/patrick-marino-6a282932))
 
 ---
 
@@ -29,6 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![WSO2](https://img.shields.io/badge/WSO2-F26622?style=for-the-badge&logo=wso2&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
@@ -36,6 +37,15 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
+
+<br/><br/>
+
+<!-- 📊 GitHub Stats -->
+![patrickmarino's Stats](https://github-readme-stats.vercel.app/api?username=patrickmarino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![patrickmarino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickmarino&theme=vue-dark&hide_border=true)  
+![patrickmarino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmarino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 <br/><br/>
 
