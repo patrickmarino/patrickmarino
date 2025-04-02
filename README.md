@@ -14,7 +14,7 @@
 - 🚀 Passionate about clean architecture, APIs, and automation
 - 🧪 Testing advocate — I integrate **Codecov** and love writing tests
 - 📈 I like tracking progress using GitHub stats & streaks
-- 📫 How to reach me: [@yourusername](https://www.linkedin.com/in/patrick-marino-6a282932)
+- 📫 How to reach me: [@patrickmarino](https://www.linkedin.com/in/patrick-marino-6a282932)
 
 ---
 
