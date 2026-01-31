@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Serverless apps with TypeScript & AWS**
-- ⚙️ I love working with **Node.js**, **Laravel**, **React**,**Ror** and **Elixir**
+- ⚙️ I love working with **Node.js**, **Laravel**, **React**,**Ror**, **Elixir** and **Rust**
 - 🚀 Passionate about clean architecture, APIs, and automation
 - 🧪 Testing advocate — I integrate **Codecov** and love writing tests
 - 📈 I like tracking progress using GitHub stats & streaks
